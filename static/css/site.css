@@ -1,0 +1,20 @@
+body {
+    max-width: 57em; /* overriding 42em in style.css */
+}
+
+pre {
+    background: #ffeeee;
+    padding-left: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    line-height: 125%;
+}
+
+div.body {
+    min-height: 600px;
+}
+
+div.header, div.footer {
+    color: #666666;
+    font-size: 9pt;
+}
